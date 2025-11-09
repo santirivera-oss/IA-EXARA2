@@ -1,0 +1,10 @@
+flask
+ollama
+tensorflow
+pandas
+numpy
+pickle5
+sentence-transformers
+ddgs
+requests
+deep-translator
